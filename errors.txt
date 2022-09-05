@@ -1,0 +1,11 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 108: invalid syntax
+            "ch1_part1_hallway_two" : "ch1_part1_hallway_two_inv"
+                                     ^
+    
+
+Ren'Py Version: Ren'Py 8.0.2.22081402
+Mon Sep  5 01:40:32 2022
