@@ -130,10 +130,10 @@ label start:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    unknown "Welcome to DanganPineapple, a fangame 'inspired' from Danganronpa, based on the hit discord server Pineapple Kingdom."
-    unknown "This is a demo chapter 1, and is currently made in a week and is pretty fucking shit."
-    unknown "None of these characters are inspired from reality whatsoever. You'll realize this the further you get into the game."
-    unknown "Please enjoy the game from here onwards. I did put effort into it."
+    unknown "Welcome to DanganPineapple, a fangame 'inspired' by Danganronpa, based on the hit discord server Pineapple Kingdom."
+    unknown "This is a demo of chapter 1, and was made in a week and is therefore pretty fucking shit."
+    unknown "All characters are only loosely inspired by real people. You'll realize this the further you get into the game."
+    unknown "Please enjoy the game from here onwards (or else). I did put effort into it."
 
     jump prologue
     return
