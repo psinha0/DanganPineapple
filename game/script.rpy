@@ -123,8 +123,6 @@ label start:
     # images directory to show it.
     $ your_name = "Prath"
     $ your_gender = "M"
-    jump ch1_part1_hallway_three
-    scene classroom
 
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
